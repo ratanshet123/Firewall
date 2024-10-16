@@ -19,3 +19,7 @@ This project is a custom firewall implemented in a Linux environment. It provide
 1. Clone this repository:
    ```bash
    git clone https://github.com/ratanshet123/Firewall.git
+
+   cd Firewall
+
+   
