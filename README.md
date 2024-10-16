@@ -12,7 +12,7 @@ This project is a custom firewall implemented in a Linux environment. It provide
 
 - Linux-based system
 - Bash scripting
-- `iptables` or `nftables` for firewall rules
+- `iptables` for firewall rules
 
 ## Installation
 
