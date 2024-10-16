@@ -1,0 +1,14 @@
+# nano /etc/systemd/system/firewall.service   
+
+[Unit]
+Description=Firewall Service
+After=network.target
+
+[Service]
+User=root
+ExecStart=/home/root/firewall/firewall.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
